@@ -1,1 +1,1 @@
-# GoPractice
+#  Fundamentals Of Go Programming
