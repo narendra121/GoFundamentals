@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Ynd007/goPractice/01-VariablesValuesType/00-packages/calculations"
+
+"github.com/narendra121/GoPractice/01-VariablesValuesType/00-packages/calculations"
 )
 
 func main() {

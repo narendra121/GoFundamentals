@@ -6,12 +6,3 @@ func main() {
 	fmt.Println(40)
 }
 
-
-
-
-
-
-
-
-
--
